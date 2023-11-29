@@ -1,0 +1,2 @@
+# aboutme
+tridang.info
