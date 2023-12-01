@@ -1,0 +1,11 @@
+/*
+ * Custom CSS
+ */
+
+nav.navbar {
+  background-color: #e3f2df;
+}
+
+nav ul li a.active {
+  font-weight: bolder;
+}
