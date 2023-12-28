@@ -9,3 +9,7 @@ nav.navbar {
 nav ul li a.active {
   font-weight: bolder;
 }
+
+figure figcaption {
+  text-align: center;
+}
