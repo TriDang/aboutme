@@ -13,3 +13,7 @@ nav ul li a.active {
 figure figcaption {
   text-align: center;
 }
+
+h4.posted-date {
+  color: #888;
+}
